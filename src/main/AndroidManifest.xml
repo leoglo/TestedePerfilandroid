@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.testedeperfil">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_prancheta"
+        android:screenOrientation="userPortrait"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LinguagemReposta"
+            android:screenOrientation="portrait" ></activity>
+        <activity android:name=".LinguagemGrupo1"
+            android:screenOrientation="portrait" />
+        <activity android:name=".TelaApresentacaoTesteLiguagem"
+            android:screenOrientation="portrait" />
+        <activity android:name=".LinguagemGrupo2"
+            android:screenOrientation="portrait" />
+        <activity android:name=".LinguagemGrupo3"
+            android:screenOrientation="portrait" />
+        <activity android:name=".LinguagemGrupo4"
+            android:screenOrientation="portrait" />
+        <activity android:name=".LinguagemGrupo5"
+            android:screenOrientation="portrait" />
+        <activity android:name=".TelaApresentacaoTestePerfil"
+            android:screenOrientation="portrait" />
+        <activity android:name=".telaTubarao"
+            android:screenOrientation="portrait" />
+        <activity android:name=".telaGato"
+            android:screenOrientation="portrait" />
+        <activity android:name=".telaAguia"
+            android:screenOrientation="portrait" />
+        <activity android:name=".telaLobo"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao1"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao2"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao3"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao4"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao5"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao6"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao7"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao8"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao9"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao10"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao11"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao12"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao13"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao14"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao15"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao16"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao17"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao18"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao19"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao20"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao21"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao22"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao23"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao24"
+            android:screenOrientation="portrait" />
+        <activity android:name=".questao25"
+            android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
